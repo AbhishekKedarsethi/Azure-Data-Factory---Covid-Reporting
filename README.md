@@ -1,5 +1,3 @@
-# Azure-Data-Factory---Covid-Reporting
-
 # Data Engineering Project on COVID-19 Reporting using Azure Data Factory
 
 ![Project Banner](https://your-image-link.com/banner.png)
