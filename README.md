@@ -194,7 +194,7 @@ Final layer of the pipeline enables dynamic reporting on transformed datasets.
 4. **Publish to Power BI Service**  
 5. **Optional: Enable "Publish to Web"** for embedding in external platforms  
 
-![Alt Text](https://github.com/AbhishekKedarsethi/Azure-Data-Factory---Covid-Reporting/blob/bc15f8e1d8f9a572ecbfb5d9e4a5da4c3eb09955/images/Databricks.png)
+![Alt Text](https://github.com/AbhishekKedarsethi/Azure-Data-Factory---Covid-Reporting/blob/f6a57daa2d5e57dfc5b1c335040b6648f6f1543b/images/last_pic.png)
 
 
 ---
