@@ -52,7 +52,9 @@ This repository showcases a comprehensive end-to-end **data engineering solution
 ---
 
 ## 📐 Architecture
-*Architecture diagram placeholder – add your image here if available*
+![Alt Text](https://github.com/AbhishekKedarsethi/Azure-Data-Factory---Covid-Reporting/blob/bc15f8e1d8f9a572ecbfb5d9e4a5da4c3eb09955/images/Architecture.png)
+
+<img src="images/architecture.png" alt="Data Pipeline Architecture" width="700"/>
 
 ---
 
@@ -81,6 +83,9 @@ Population dataset supports demographic analysis and mortality prediction modeli
 
 ## 📦 Copy Activity
 Used for reliable and performant data movement from source to Data Lake using **ADF Copy Activity**.
+
+![Alt Text](https://github.com/AbhishekKedarsethi/Azure-Data-Factory---Covid-Reporting/blob/bc15f8e1d8f9a572ecbfb5d9e4a5da4c3eb09955/images/Copy_Activity.png)
+
 
 ---
 
