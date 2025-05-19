@@ -54,8 +54,6 @@ This repository showcases a comprehensive end-to-end **data engineering solution
 ## 📐 Architecture
 ![Alt Text](https://github.com/AbhishekKedarsethi/Azure-Data-Factory---Covid-Reporting/blob/bc15f8e1d8f9a572ecbfb5d9e4a5da4c3eb09955/images/Architecture.png)
 
-<img src="images/architecture.png" alt="Data Pipeline Architecture" width="700"/>
-
 ---
 
 ## 📥 Data Extraction & Ingestion
@@ -103,6 +101,9 @@ Used for reliable and performant data movement from source to Data Lake using **
 7. **Configure Trigger** (Daily/Hourly)
 
 This structure was replicated across all datasets for uniform ingestion.
+
+![Alt Text](https://github.com/AbhishekKedarsethi/Azure-Data-Factory---Covid-Reporting/blob/bc15f8e1d8f9a572ecbfb5d9e4a5da4c3eb09955/images/Copy_Pipeline.png)
+
 
 ---
 
@@ -154,6 +155,9 @@ Used **Databricks Notebooks** within ADF to perform Spark-based scalable transfo
 4. **Configure error handling** with If/Else or failure paths  
 5. **Automate** using scheduled or event-based triggers  
 
+![Alt Text](https://github.com/AbhishekKedarsethi/Azure-Data-Factory---Covid-Reporting/blob/bc15f8e1d8f9a572ecbfb5d9e4a5da4c3eb09955/images/Databricks.png)
+
+
 ---
 
 ## 📤 Copy Data to Azure SQL
@@ -167,6 +171,9 @@ Data from Azure Data Lake Gen2 was transferred to Azure SQL for analytics and BI
 4. **Sink Dataset** configuration  
 5. **Build pipeline** to load validated data  
 6. **Scheduled Trigger** for automation  
+
+![Alt Text](https://github.com/AbhishekKedarsethi/Azure-Data-Factory---Covid-Reporting/blob/bc15f8e1d8f9a572ecbfb5d9e4a5da4c3eb09955/images/SQL_pipeline.png)
+
 
 ---
 
@@ -186,6 +193,9 @@ Final layer of the pipeline enables dynamic reporting on transformed datasets.
    - Regional comparisons  
 4. **Publish to Power BI Service**  
 5. **Optional: Enable "Publish to Web"** for embedding in external platforms  
+
+![Alt Text](https://github.com/AbhishekKedarsethi/Azure-Data-Factory---Covid-Reporting/blob/bc15f8e1d8f9a572ecbfb5d9e4a5da4c3eb09955/images/Databricks.png)
+
 
 ---
 
